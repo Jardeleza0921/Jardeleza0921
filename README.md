@@ -8,9 +8,6 @@
   <a href="https://github.com/Jardeleza0921">
     <img src="https://img.shields.io/badge/GitHub-Jardeleza0921-181717?style=flat-square&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://equallearn.netlify.app">
-    <img src="https://img.shields.io/badge/Live_Project-EqualLearn-22c55e?style=flat-square&logo=netlify&logoColor=white" alt="EqualLearn live demo" />
-  </a>
 </div>
 
 <p align="center">
@@ -23,17 +20,13 @@ I'm a third-year BSIT student at **Pateros Technological College** who learns be
 
 - ☁️ Working toward a career in **cloud engineering**
 - 🤖 Currently focused on **KLIGHTTEN AI** for desktop and Android
+- 🌐 Building web applications with **React + Vite, PHP, MySQL, and XAMPP**
+- ☕ Using **Java and Python** for application development and school projects
 - 🐧 Comfortable building and troubleshooting on **Linux**
 - 📱 Interested in useful, lightweight, and offline-friendly applications
 - 🚀 Growing **Klightten** into a long-term technology and product brand
 
 ## Featured work
-
-### [EqualLearn](https://github.com/Jardeleza0921/equallearn)
-
-A mobile learning application for gender-equality education and awareness at Pateros Technological College. It includes student, teacher, and administrator experiences, with a web deployment and Android prototype.
-
-`HTML` `CSS` `JavaScript` `Firebase` `Capacitor` · [Live demo](https://equallearn.netlify.app)
 
 ### KLIGHTTEN AI
 
@@ -57,12 +50,17 @@ A lightweight custom panel designed for Linux Mint XFCE, featuring system contro
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F97316" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=A78BFA" alt="PHP" />
   <img src="https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart&logoColor=38BDF8" alt="Dart" />
   <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=F97316" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=38BDF8" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=60A5FA" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=60A5FA" alt="MySQL" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=A78BFA" alt="Vite" />
   <img src="https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter&logoColor=38BDF8" alt="Flutter" />
+  <img src="https://img.shields.io/badge/XAMPP-111827?style=flat-square&logo=xampp&logoColor=FB7A24" alt="XAMPP" />
   <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=F59E0B" alt="Firebase" />
   <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=F8FAFC" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F97316" alt="Git" />
